@@ -1,4 +1,4 @@
-# ​Aplicação e Avaliação de Modelos Supervisionados para Classificação da Qualidade do Vinho
+# ​Superioridade de Métodos Baseados em Instância na Classificação Sensorial de Vinhos Portugueses.
 
 ## Descrição do Projeto
 Este projeto consiste em um trabalho acadêmico que implementa e compara diferentes modelos de classificação para prever se um vinho é de alta qualidade (Premium) ou comum, com base em suas características físico-químicas. Desenvolvido para o Homework 3 da disciplina de Inteligência Computacional Aplicada, o estudo foca na comparação entre modelos lineares e não lineares, utilizando algoritmos como Regressão Logística, LDA, SVM, k-NN e Redes Neurais (MLP).
